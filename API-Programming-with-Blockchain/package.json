@@ -1,0 +1,17 @@
+{
+  "name": "xinifn-webinar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkAccountBalance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lerna": "^3.22.1",
+    "solc": "^0.6.11",
+    "xdc3": "^1.2.1211"
+  }
+}
